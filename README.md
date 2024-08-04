@@ -1,3 +1,5 @@
 # Occupancy_Analysis
 The project focused on Parking Occupancy Analytics, utilizing computer vision techniques to analyze and manage parking spaces efficiently. Parking Occupancy Analytics is a novel method to urban parking management that uses powerful computer vision techniques to maximize parking space utilization. This strategically uses cameras feeds and powerful image processing algorithms to monitor parking lots in real time. The system can reliably detect the presence or absence of vehicles in particular parking spaces, providing useful information about number of vehicles in a particular zone, zone wise occupancy and average occupancy. 
 Furthermore, Parking Occupancy Analytics can help to improve environmental sustainability by minimizing needless vehicle circulation and emissions from cars looking for parking. The system can be especially useful in high-traffic places like shopping malls, airports, and central business districts, where effective parking management can have a substantial impact on overall traffic congestion and urban mobility.
+
+Here, for data you need to generate dataset from roboflow platform in YOLOv8 format.
